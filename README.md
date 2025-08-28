@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-  <h1>Hey there, I'm YOUR_USERNAME! 👋</h1>
+  <h1>Hey there, I'm Pro-Dev! 👋</h1>
   <h3>A passionate Full-Stack Developer on a coding adventure.</h3>
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 💻 About Me 
 
-A developer with a love for building things that live on the web and beyond! 🚀 Currently focused on crafting robust applications with **C#/.NET** and creating dynamic user interfaces using **Angular**. Always eager to learn and grow, and the latest journey has been diving deep into the world of **Dart** and **Flutter** for cross-platform mobile development. 📱
+A developer with a love for building things that live on the web and beyond! 🚀 Currently focused on crafting robust applications with **C#/.NET/blazor** and creating dynamic user interfaces using **Angular**. Always eager to learn and grow, and the latest journey has been diving deep into the world of **Dart** and **Flutter** for cross-platform mobile development. 📱
 
 - 🔭 Currently exploring the fascinating world of machine learning with **TensorFlow**.
 - 🌱 Constantly learning new things, and the latest fascination is with **message queues** for building scalable systems.
@@ -62,21 +62,19 @@ A developer with a love for building things that live on the web and beyond! �
 </p>
 
 ### 🤝 Let's Connect!
-- **[LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)**: Let's network! 🔗
-- **[Twitter](https://twitter.com/YOUR_USERNAME)**: Follow daily musings! 🐦
-- **[My Portfolio](https://your-portfolio-website.com)**: Check out more work! 💼
-- **[Email](mailto:youremail@example.com)**: For more formal inquiries. ✉️
+- **[LinkedIn](https://www.linkedin.com/in/promise-m-b8712448/)**: Let's network! 🔗
+
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=hades50&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades50&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages">
 </p>
 
 ---
 
 ### 👀 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Profile views">
+  <img src="https://profile-counter.glitch.me/hades50/count.svg" alt="Profile views">
 </p>
 
